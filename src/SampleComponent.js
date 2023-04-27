@@ -10,7 +10,14 @@ export const Sample =()=>{
           <th>Roll No</th>
           <th>Student Name</th>
         </tr>
+
       </thead>
+      <tbody>
+        <tr>
+            <td>1</td>
+            <td>AJay</td>
+        </tr>
+      </tbody>
     </table>
 </div>
   )
