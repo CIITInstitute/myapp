@@ -11,6 +11,7 @@ import reportWebVitals from './reportWebVitals';
 // import { Student } from './StudentComponent';
 // import { Employee } from './FunctionComponent/EmployeeComponent';
 import { Common } from './RoutingDemo/CommonComponent';
+import { Sample } from './SampleComponent';
 // import { Employee } from './Api/EmployeeComponent';
 // import { Parent } from './NestedComponents/ParentComponent';
 // import { Employee } from './NestedComponents/EmployeeComponent';
@@ -18,7 +19,7 @@ import { Common } from './RoutingDemo/CommonComponent';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Common />
+    <Sample />
   </React.StrictMode>
 );
 
